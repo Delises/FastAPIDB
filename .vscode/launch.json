@@ -28,7 +28,8 @@
             ],
             "env": {
                 "CVE_FILE": "C:\\Users\\delis\\OneDrive\\Desktop\\PythonUnder\\PythonFastAPI\\cve.json",
-                // "ES_TOKEN": ""
+                "ES_TOKEN": "Tm1aamhKTUIwS1RsUWh3N2Y1Um86b05YU0FTNGpTZXFPX3ZzTl9WTTcydw==",
+                "ES_URL": "https://8dd3644e8d184b55bea69e744a370900.us-central1.gcp.cloud.es.io:443"
             }
         }
     ]
